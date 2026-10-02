@@ -1,0 +1,11 @@
+version: 1
+tasks:
+  - name: crear-software-acoso-escolar
+    description: Generar la estructura completa del software antiacoso basado en el documento PDF.
+    steps:
+      - Crear módulos: prevención, detección, gestión de casos, restaurativa, analítica
+      - Generar arquitectura web + móvil
+      - Implementar roles y permisos
+      - Crear buzón anónimo cifrado
+      - Crear workflow 8 pasos
+      - Crear dashboard de convivencia
